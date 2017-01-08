@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EHHorizontalFlexibleWidthItemsView_Example' do
+  pod 'EHHorizontalFlexibleWidthItemsView', :path => '../'
+
+  target 'EHHorizontalFlexibleWidthItemsView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
