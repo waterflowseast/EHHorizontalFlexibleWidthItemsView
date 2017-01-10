@@ -1,0 +1,16 @@
+PODS:
+  - EHHorizontalFlexibleWidthItemsView (0.1.0)
+
+DEPENDENCIES:
+  - EHHorizontalFlexibleWidthItemsView (from `../`)
+
+EXTERNAL SOURCES:
+  EHHorizontalFlexibleWidthItemsView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EHHorizontalFlexibleWidthItemsView: f8f028f42385be7a8b1a1f0e9a7daaf0eaf1edb8
+
+PODFILE CHECKSUM: 4021c01cf50bc697344cb7c5563e7a932f2948a4
+
+COCOAPODS: 1.0.0

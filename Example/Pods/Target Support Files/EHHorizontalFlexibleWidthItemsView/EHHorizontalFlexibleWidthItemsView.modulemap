@@ -1,0 +1,6 @@
+framework module EHHorizontalFlexibleWidthItemsView {
+  umbrella header "EHHorizontalFlexibleWidthItemsView-umbrella.h"
+
+  export *
+  module * { export * }
+}

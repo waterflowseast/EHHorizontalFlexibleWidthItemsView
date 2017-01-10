@@ -1,0 +1,6 @@
+framework module Pods_EHHorizontalFlexibleWidthItemsView_Tests {
+  umbrella header "Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
