@@ -5,11 +5,45 @@
 [![License](https://img.shields.io/cocoapods/l/EHHorizontalFlexibleWidthItemsView.svg?style=flat)](http://cocoapods.org/pods/EHHorizontalFlexibleWidthItemsView)
 [![Platform](https://img.shields.io/cocoapods/p/EHHorizontalFlexibleWidthItemsView.svg?style=flat)](http://cocoapods.org/pods/EHHorizontalFlexibleWidthItemsView)
 
+## Summary
+
+EHHorizontalFlexibleWidthItemsView: a view which arranges different-width item views one by one horizontally.
+
+EHHorizontalFlexibleWidthItemsSeparatorView: EHHorizontalFlexibleWidthItemsView + separator lines.
+
+EHHorizontalFlexibleWidthItemsSelectionView: selection version of EHHorizontalFlexibleWidthItemsView, you can single-select or multiple-select.
+
+EHFlexibleWidthItemsSequentialSelectionView: sequentail selection version of EHHorizontalFlexibleWidthItemsView.
+
+EHFlexibleWidthItemsSingleAnimatedSelectionView: a view which arranges different-width item views one by one horizontally, when you select one item, it automatically unselect the previous selected one with animation.
+
+EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView: EHFlexibleWidthItemsSingleAnimatedSelectionView + separator lines.
+
+## Screenshots
+
+EHHorizontalFlexibleWidthItemsView & EHHorizontalFlexibleWidthItemsSeparatorView
+
+![](https://github.com/waterflowseast/EHHorizontalFlexibleWidthItemsView/raw/master/screenshots/1.png)
+
+EHHorizontalFlexibleWidthItemsSelectionView
+
+![](https://github.com/waterflowseast/EHHorizontalFlexibleWidthItemsView/raw/master/screenshots/2.png)
+
+EHFlexibleWidthItemsSequentialSelectionView
+
+![](https://github.com/waterflowseast/EHHorizontalFlexibleWidthItemsView/raw/master/screenshots/3.png)
+
+EHFlexibleWidthItemsSingleAnimatedSelectionView & EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView
+
+![](https://github.com/waterflowseast/EHHorizontalFlexibleWidthItemsView/raw/master/screenshots/4.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS 7.0+
 
 ## Installation
 
