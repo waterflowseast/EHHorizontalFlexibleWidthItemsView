@@ -1,1583 +1,745 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>0517906542E2B87280C2F8FB45E5E89E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>EHHorizontalFlexibleWidthItemsView-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0ACDCBCB0B6796575F46FFA2F5410C6B</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>POD_CONFIGURATION_RELEASE=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>1BCD0198F4944EEDCDDA6EBF94C7C209</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>DEE904DDF2AE785C8ABE631666CDA804</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>1E977F24EAEC7766BCF34D43B5734D7F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4325CB06314E7C9A62DB0E2F435DF1F0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>1EFF2055D43AC81F781DE4487C070E4E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>EHHorizontalFlexibleWidthItemsView.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2ADC3FFE2BCC9B711352F447D345C99D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>D3E3D092A3FF7311A98E44BBA36FFD12</string>
-				<string>0ACDCBCB0B6796575F46FFA2F5410C6B</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>31C8F8B893132EBC7CF09FE6BBE2A5C1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4551558E388939395BE1C195C5BD2751</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>32F29EC502F2F0297CD1A924543F1589</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>33092D25645795FCD72D3A8C66366DD8</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>478AC9AEA98290F111D53A8FADE24ED7</string>
-			<key>buildPhases</key>
-			<array>
-				<string>F9108E111E2D15717E91A08929A6B7FB</string>
-				<string>9AB6BAFE88E4CF11BFCAF5891160B39C</string>
-				<string>1BCD0198F4944EEDCDDA6EBF94C7C209</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>F68CDBB07B22792C1769C35163994DAE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example</string>
-			<key>productName</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example</string>
-			<key>productReference</key>
-			<string>695C52AAF69E3DA07DCA6A5D6B6B3D99</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>39C7FF2BAF7742C4909D405E788C0217</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3DCAB2B7CDE207B3958B6CB957FCC758</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3F3FC08A01417041800C5FD0BE52AB71</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>ECEF7CE7D964EA68E1ADF6606EC21E10</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3FA119E5733127DBF68A92847829AA9B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3FD9F965E52187B934296CE755A1A8BA</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6CCE78DE16987F89E056F68D23071D61</string>
-				<string>31C8F8B893132EBC7CF09FE6BBE2A5C1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>4325CB06314E7C9A62DB0E2F435DF1F0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4551558E388939395BE1C195C5BD2751</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ReplaceMe.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47187AA98F6E4C8CA0F01A847AE04583</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>E4098245AE9C36684C5DBBFE88C509CF</string>
-			<key>buildPhases</key>
-			<array>
-				<string>47D716711F6691C31B82CCE30DA76278</string>
-				<string>64584A2C776E664542BF7E74B96DEF5D</string>
-				<string>F7A60D5C38C4B82C55D9DA02BCE2CC5A</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests</string>
-			<key>productName</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests</string>
-			<key>productReference</key>
-			<string>4E02197B4DFCA327D76F8700319050BC</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>478AC9AEA98290F111D53A8FADE24ED7</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>FB7DF3B81A6EBF0C4B8EEEE19CE8B402</string>
-				<string>7493F94B323A53DC116097488352BB59</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>47D716711F6691C31B82CCE30DA76278</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6CB4153EA98481BF1CE6FD1CAC426F34</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>48A3B97244E25DB10D19DBC4A8126124</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>EHHorizontalFlexibleWidthItemsView-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E02197B4DFCA327D76F8700319050BC</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_EHHorizontalFlexibleWidthItemsView_Tests.framework</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>5020BB3943B952B26E212B9669CC036C</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>97E3F129E2094DF9B8897B42597B23A1</string>
-				<string>A472D013E48668F57B5F527AFD233564</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>5382A66C48A4601CD70C65145D5180B2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>563CB7037F3D47B1D5E05840E85BCA07</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>56ECC4E23691902FFDFBB28CA14B1580</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>63E31AF9C13A181C19D7B44926CFD5E0</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4551558E388939395BE1C195C5BD2751</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6437B226C623065E8D4DD5010D977A7C</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>B8F75F43BCA63318F8B828EAAF98B91E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_EHHorizontalFlexibleWidthItemsView_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>64584A2C776E664542BF7E74B96DEF5D</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>56ECC4E23691902FFDFBB28CA14B1580</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>664E04773DE7741F7DF34A94EB00877A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A35FCA9AFCBB8F83DDA27318AF9775F7</string>
-				<string>F5883650BC7DAF2F5EC31E903BDC64AB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>695C52AAF69E3DA07DCA6A5D6B6B3D99</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_EHHorizontalFlexibleWidthItemsView_Example.framework</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6CB4153EA98481BF1CE6FD1CAC426F34</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A7622C7BBFF820922FF80B1DE9A25D09</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6CCE78DE16987F89E056F68D23071D61</key>
-		<dict>
-			<key>fileRef</key>
-			<string>48A3B97244E25DB10D19DBC4A8126124</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7493F94B323A53DC116097488352BB59</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>A458FD9447D93A78EFA5608FAF304859</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_EHHorizontalFlexibleWidthItemsView_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>93A4A3777CF96A4AAC1D13BA6DCCEA73</string>
-				<string>3F3FC08A01417041800C5FD0BE52AB71</string>
-				<string>BC3CA7F9E30CC8F7E2DD044DD34432FC</string>
-				<string>FFA814375E1C7BC3FEA100E9816AFED0</string>
-				<string>664E04773DE7741F7DF34A94EB00877A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7E1C09CCEAA201B5149B83654A9D1CAA</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>8F2CCEC22AB7C254AC76A90C81C0EF7E</string>
-			<key>remoteInfo</key>
-			<string>EHHorizontalFlexibleWidthItemsView</string>
-		</dict>
-		<key>890E505E6868A2B595F235492AEDD606</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8F2CCEC22AB7C254AC76A90C81C0EF7E</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>5020BB3943B952B26E212B9669CC036C</string>
-			<key>buildPhases</key>
-			<array>
-				<string>3FD9F965E52187B934296CE755A1A8BA</string>
-				<string>FBEE6074DCE57A6BAEBECF933085A7F4</string>
-				<string>FFE0C81DED7BF4FA6249928738C51821</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>EHHorizontalFlexibleWidthItemsView</string>
-			<key>productName</key>
-			<string>EHHorizontalFlexibleWidthItemsView</string>
-			<key>productReference</key>
-			<string>BD91F6E3EF16D8CA722D56895B2B9A16</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>9336178ED07D6B3621BB84BFE108E3E9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>93A4A3777CF96A4AAC1D13BA6DCCEA73</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>text.script.ruby</string>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>96F2A29ABFA05F0092877FFDE404C36D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>97E3F129E2094DF9B8897B42597B23A1</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>98A13115E042CD308A1E22E3837CEAB7</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/EHHorizontalFlexibleWidthItemsView/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>EHHorizontalFlexibleWidthItemsView</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>98A13115E042CD308A1E22E3837CEAB7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>EHHorizontalFlexibleWidthItemsView.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9AB6BAFE88E4CF11BFCAF5891160B39C</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>FEA37B2C6462603D7D64589814A758DE</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>A35FCA9AFCBB8F83DDA27318AF9775F7</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>32F29EC502F2F0297CD1A924543F1589</string>
-				<string>A90253427C10D3187A0CEE8C9A55DB9C</string>
-				<string>EFDE54192C7E2098CE3409E9AB0088D5</string>
-				<string>890E505E6868A2B595F235492AEDD606</string>
-				<string>39C7FF2BAF7742C4909D405E788C0217</string>
-				<string>C91CC9713A828BBBA1CB8DBD7F2825FB</string>
-				<string>9336178ED07D6B3621BB84BFE108E3E9</string>
-				<string>B178F1EA3ED59305A50F383322608A69</string>
-				<string>E2C723E6D686E4A7574C762169B643B0</string>
-				<string>A458FD9447D93A78EFA5608FAF304859</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A458FD9447D93A78EFA5608FAF304859</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A472D013E48668F57B5F527AFD233564</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>98A13115E042CD308A1E22E3837CEAB7</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/EHHorizontalFlexibleWidthItemsView/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>EHHorizontalFlexibleWidthItemsView</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>A7622C7BBFF820922FF80B1DE9A25D09</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A90253427C10D3187A0CEE8C9A55DB9C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AB854416DA9498284D33914BC843CB37</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0517906542E2B87280C2F8FB45E5E89E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>B178F1EA3ED59305A50F383322608A69</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B28FE751A140BAC10714011B84843024</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B4808E90C34AA60F7981706995EA2E83</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1EFF2055D43AC81F781DE4487C070E4E</string>
-				<string>98A13115E042CD308A1E22E3837CEAB7</string>
-				<string>48A3B97244E25DB10D19DBC4A8126124</string>
-				<string>F4F82F9FC801A12735AD017B2A95C40D</string>
-				<string>0517906542E2B87280C2F8FB45E5E89E</string>
-				<string>B28FE751A140BAC10714011B84843024</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/EHHorizontalFlexibleWidthItemsView</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B8F75F43BCA63318F8B828EAAF98B91E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BC3CA7F9E30CC8F7E2DD044DD34432FC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3DCAB2B7CDE207B3958B6CB957FCC758</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BD91F6E3EF16D8CA722D56895B2B9A16</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>EHHorizontalFlexibleWidthItemsView.framework</string>
-			<key>path</key>
-			<string>EHHorizontalFlexibleWidthItemsView.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>C08083AC51CD6FCF92CD164DD6F8FA34</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C91CC9713A828BBBA1CB8DBD7F2825FB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CEC22C73C1608DFA5D5D78BDCB218219</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>D09970317D9F8946A0DC0D731FABB97A</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>2ADC3FFE2BCC9B711352F447D345C99D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_EHHorizontalFlexibleWidthItemsView_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>D3E3D092A3FF7311A98E44BBA36FFD12</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>ENABLE_TESTABILITY</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>POD_CONFIGURATION_DEBUG=1</string>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0730</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>FFA814375E1C7BC3FEA100E9816AFED0</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>8F2CCEC22AB7C254AC76A90C81C0EF7E</string>
-				<string>33092D25645795FCD72D3A8C66366DD8</string>
-				<string>47187AA98F6E4C8CA0F01A847AE04583</string>
-			</array>
-		</dict>
-		<key>D9377328A882E94908315BED24D02D45</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DEE904DDF2AE785C8ABE631666CDA804</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B178F1EA3ED59305A50F383322608A69</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E2C723E6D686E4A7574C762169B643B0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E4098245AE9C36684C5DBBFE88C509CF</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>6437B226C623065E8D4DD5010D977A7C</string>
-				<string>D09970317D9F8946A0DC0D731FABB97A</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>E5059EA43F9FCA4B141FC22FF8A5DA6E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>63E31AF9C13A181C19D7B44926CFD5E0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>EHHorizontalFlexibleWidthItemsView</string>
-			<key>path</key>
-			<string>EHHorizontalFlexibleWidthItemsView</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EA5BC36BB0C7809461C395810D6310D5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ECEF7CE7D964EA68E1ADF6606EC21E10</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E5059EA43F9FCA4B141FC22FF8A5DA6E</string>
-				<string>B4808E90C34AA60F7981706995EA2E83</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>EHHorizontalFlexibleWidthItemsView</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EFDE54192C7E2098CE3409E9AB0088D5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F4F82F9FC801A12735AD017B2A95C40D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>EHHorizontalFlexibleWidthItemsView-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F5883650BC7DAF2F5EC31E903BDC64AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>EA5BC36BB0C7809461C395810D6310D5</string>
-				<string>C08083AC51CD6FCF92CD164DD6F8FA34</string>
-				<string>5382A66C48A4601CD70C65145D5180B2</string>
-				<string>D9377328A882E94908315BED24D02D45</string>
-				<string>A7622C7BBFF820922FF80B1DE9A25D09</string>
-				<string>563CB7037F3D47B1D5E05840E85BCA07</string>
-				<string>96F2A29ABFA05F0092877FFDE404C36D</string>
-				<string>4325CB06314E7C9A62DB0E2F435DF1F0</string>
-				<string>B8F75F43BCA63318F8B828EAAF98B91E</string>
-				<string>2ADC3FFE2BCC9B711352F447D345C99D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-EHHorizontalFlexibleWidthItemsView_Tests</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F68CDBB07B22792C1769C35163994DAE</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>EHHorizontalFlexibleWidthItemsView</string>
-			<key>target</key>
-			<string>8F2CCEC22AB7C254AC76A90C81C0EF7E</string>
-			<key>targetProxy</key>
-			<string>7E1C09CCEAA201B5149B83654A9D1CAA</string>
-		</dict>
-		<key>F7A60D5C38C4B82C55D9DA02BCE2CC5A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>1E977F24EAEC7766BCF34D43B5734D7F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>F9108E111E2D15717E91A08929A6B7FB</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>FAB8309CF5FBDD26293A47A995DFA6DA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>FAB8309CF5FBDD26293A47A995DFA6DA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>39C7FF2BAF7742C4909D405E788C0217</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FB7DF3B81A6EBF0C4B8EEEE19CE8B402</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>E2C723E6D686E4A7574C762169B643B0</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>org.cocoapods.${PRODUCT_NAME:rfc1034identifier}</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_EHHorizontalFlexibleWidthItemsView_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>FBEE6074DCE57A6BAEBECF933085A7F4</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>3FA119E5733127DBF68A92847829AA9B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>FEA37B2C6462603D7D64589814A758DE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FFA814375E1C7BC3FEA100E9816AFED0</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BD91F6E3EF16D8CA722D56895B2B9A16</string>
-				<string>695C52AAF69E3DA07DCA6A5D6B6B3D99</string>
-				<string>4E02197B4DFCA327D76F8700319050BC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FFE0C81DED7BF4FA6249928738C51821</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>AB854416DA9498284D33914BC843CB37</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07F1613C1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F1612C1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.h */; };
+		07F1613D1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F1612D1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.m */; };
+		07F1613E1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F1612E1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.h */; };
+		07F1613F1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F1612F1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.m */; };
+		07F161401E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F161301E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.h */; };
+		07F161411E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F161311E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.m */; };
+		07F161421E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F161321E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.h */; };
+		07F161431E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F161331E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.m */; };
+		07F161441E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F161341E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.h */; };
+		07F161451E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F161351E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.m */; };
+		07F161461E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F161361E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.h */; };
+		07F161471E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F161371E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.m */; };
+		07F161481E24A426007906FF /* EHHorizontalFlexibleWidthLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F161381E24A426007906FF /* EHHorizontalFlexibleWidthLayout.h */; };
+		07F161491E24A426007906FF /* EHHorizontalFlexibleWidthLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F161391E24A426007906FF /* EHHorizontalFlexibleWidthLayout.m */; };
+		07F1614A1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.h in Headers */ = {isa = PBXBuildFile; fileRef = 07F1613A1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.h */; };
+		07F1614B1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F1613B1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.m */; };
+		1E977F24EAEC7766BCF34D43B5734D7F /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4325CB06314E7C9A62DB0E2F435DF1F0 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3FA119E5733127DBF68A92847829AA9B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		56ECC4E23691902FFDFBB28CA14B1580 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+		6CB4153EA98481BF1CE6FD1CAC426F34 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A7622C7BBFF820922FF80B1DE9A25D09 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-dummy.m */; };
+		6CCE78DE16987F89E056F68D23071D61 /* EHHorizontalFlexibleWidthItemsView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 48A3B97244E25DB10D19DBC4A8126124 /* EHHorizontalFlexibleWidthItemsView-dummy.m */; };
+		AB854416DA9498284D33914BC843CB37 /* EHHorizontalFlexibleWidthItemsView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0517906542E2B87280C2F8FB45E5E89E /* EHHorizontalFlexibleWidthItemsView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DEE904DDF2AE785C8ABE631666CDA804 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B178F1EA3ED59305A50F383322608A69 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FAB8309CF5FBDD26293A47A995DFA6DA /* Pods-EHHorizontalFlexibleWidthItemsView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C7FF2BAF7742C4909D405E788C0217 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-dummy.m */; };
+		FEA37B2C6462603D7D64589814A758DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7E1C09CCEAA201B5149B83654A9D1CAA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8F2CCEC22AB7C254AC76A90C81C0EF7E;
+			remoteInfo = EHHorizontalFlexibleWidthItemsView;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0517906542E2B87280C2F8FB45E5E89E /* EHHorizontalFlexibleWidthItemsView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EHHorizontalFlexibleWidthItemsView-umbrella.h"; sourceTree = "<group>"; };
+		07F1612C1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHFlexibleWidthItemsSequentialSelectionView.h; sourceTree = "<group>"; };
+		07F1612D1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHFlexibleWidthItemsSequentialSelectionView.m; sourceTree = "<group>"; };
+		07F1612E1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.h; sourceTree = "<group>"; };
+		07F1612F1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.m; sourceTree = "<group>"; };
+		07F161301E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHFlexibleWidthItemsSingleAnimatedSelectionView.h; sourceTree = "<group>"; };
+		07F161311E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHFlexibleWidthItemsSingleAnimatedSelectionView.m; sourceTree = "<group>"; };
+		07F161321E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHHorizontalFlexibleWidthItemsSelectionView.h; sourceTree = "<group>"; };
+		07F161331E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHHorizontalFlexibleWidthItemsSelectionView.m; sourceTree = "<group>"; };
+		07F161341E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHHorizontalFlexibleWidthItemsSeparatorView.h; sourceTree = "<group>"; };
+		07F161351E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHHorizontalFlexibleWidthItemsSeparatorView.m; sourceTree = "<group>"; };
+		07F161361E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHHorizontalFlexibleWidthItemsView.h; sourceTree = "<group>"; };
+		07F161371E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHHorizontalFlexibleWidthItemsView.m; sourceTree = "<group>"; };
+		07F161381E24A426007906FF /* EHHorizontalFlexibleWidthLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHHorizontalFlexibleWidthLayout.h; sourceTree = "<group>"; };
+		07F161391E24A426007906FF /* EHHorizontalFlexibleWidthLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHHorizontalFlexibleWidthLayout.m; sourceTree = "<group>"; };
+		07F1613A1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "EHHorizontalFlexibleWidthLayout+SeparatorPosition.h"; sourceTree = "<group>"; };
+		07F1613B1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "EHHorizontalFlexibleWidthLayout+SeparatorPosition.m"; sourceTree = "<group>"; };
+		1EFF2055D43AC81F781DE4487C070E4E /* EHHorizontalFlexibleWidthItemsView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = EHHorizontalFlexibleWidthItemsView.modulemap; sourceTree = "<group>"; };
+		2ADC3FFE2BCC9B711352F447D345C99D /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		32F29EC502F2F0297CD1A924543F1589 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39C7FF2BAF7742C4909D405E788C0217 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example-dummy.m"; sourceTree = "<group>"; };
+		4325CB06314E7C9A62DB0E2F435DF1F0 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h"; sourceTree = "<group>"; };
+		48A3B97244E25DB10D19DBC4A8126124 /* EHHorizontalFlexibleWidthItemsView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "EHHorizontalFlexibleWidthItemsView-dummy.m"; sourceTree = "<group>"; };
+		4E02197B4DFCA327D76F8700319050BC /* Pods_EHHorizontalFlexibleWidthItemsView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EHHorizontalFlexibleWidthItemsView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5382A66C48A4601CD70C65145D5180B2 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		563CB7037F3D47B1D5E05840E85BCA07 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		695C52AAF69E3DA07DCA6A5D6B6B3D99 /* Pods_EHHorizontalFlexibleWidthItemsView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EHHorizontalFlexibleWidthItemsView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		890E505E6868A2B595F235492AEDD606 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		9336178ED07D6B3621BB84BFE108E3E9 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example-resources.sh"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		96F2A29ABFA05F0092877FFDE404C36D /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests-resources.sh"; sourceTree = "<group>"; };
+		98A13115E042CD308A1E22E3837CEAB7 /* EHHorizontalFlexibleWidthItemsView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EHHorizontalFlexibleWidthItemsView.xcconfig; sourceTree = "<group>"; };
+		A458FD9447D93A78EFA5608FAF304859 /* Pods-EHHorizontalFlexibleWidthItemsView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example.release.xcconfig"; sourceTree = "<group>"; };
+		A7622C7BBFF820922FF80B1DE9A25D09 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests-dummy.m"; sourceTree = "<group>"; };
+		A90253427C10D3187A0CEE8C9A55DB9C /* Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap"; sourceTree = "<group>"; };
+		B178F1EA3ED59305A50F383322608A69 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example-umbrella.h"; sourceTree = "<group>"; };
+		B28FE751A140BAC10714011B84843024 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8F75F43BCA63318F8B828EAAF98B91E /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		BD91F6E3EF16D8CA722D56895B2B9A16 /* EHHorizontalFlexibleWidthItemsView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EHHorizontalFlexibleWidthItemsView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C08083AC51CD6FCF92CD164DD6F8FA34 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap"; sourceTree = "<group>"; };
+		C91CC9713A828BBBA1CB8DBD7F2825FB /* Pods-EHHorizontalFlexibleWidthItemsView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example-frameworks.sh"; sourceTree = "<group>"; };
+		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D9377328A882E94908315BED24D02D45 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		E2C723E6D686E4A7574C762169B643B0 /* Pods-EHHorizontalFlexibleWidthItemsView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		EA5BC36BB0C7809461C395810D6310D5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFDE54192C7E2098CE3409E9AB0088D5 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		F4F82F9FC801A12735AD017B2A95C40D /* EHHorizontalFlexibleWidthItemsView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EHHorizontalFlexibleWidthItemsView-prefix.pch"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		64584A2C776E664542BF7E74B96DEF5D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				56ECC4E23691902FFDFBB28CA14B1580 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AB6BAFE88E4CF11BFCAF5891160B39C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FEA37B2C6462603D7D64589814A758DE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FBEE6074DCE57A6BAEBECF933085A7F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3FA119E5733127DBF68A92847829AA9B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		3F3FC08A01417041800C5FD0BE52AB71 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				ECEF7CE7D964EA68E1ADF6606EC21E10 /* EHHorizontalFlexibleWidthItemsView */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		63E31AF9C13A181C19D7B44926CFD5E0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				07F1612C1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.h */,
+				07F1612D1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.m */,
+				07F1612E1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.h */,
+				07F1612F1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.m */,
+				07F161301E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.h */,
+				07F161311E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.m */,
+				07F161321E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.h */,
+				07F161331E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.m */,
+				07F161341E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.h */,
+				07F161351E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.m */,
+				07F161361E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.h */,
+				07F161371E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.m */,
+				07F161381E24A426007906FF /* EHHorizontalFlexibleWidthLayout.h */,
+				07F161391E24A426007906FF /* EHHorizontalFlexibleWidthLayout.m */,
+				07F1613A1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.h */,
+				07F1613B1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		664E04773DE7741F7DF34A94EB00877A /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A35FCA9AFCBB8F83DDA27318AF9775F7 /* Pods-EHHorizontalFlexibleWidthItemsView_Example */,
+				F5883650BC7DAF2F5EC31E903BDC64AB /* Pods-EHHorizontalFlexibleWidthItemsView_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				3F3FC08A01417041800C5FD0BE52AB71 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				FFA814375E1C7BC3FEA100E9816AFED0 /* Products */,
+				664E04773DE7741F7DF34A94EB00877A /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		A35FCA9AFCBB8F83DDA27318AF9775F7 /* Pods-EHHorizontalFlexibleWidthItemsView_Example */ = {
+			isa = PBXGroup;
+			children = (
+				32F29EC502F2F0297CD1A924543F1589 /* Info.plist */,
+				A90253427C10D3187A0CEE8C9A55DB9C /* Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap */,
+				EFDE54192C7E2098CE3409E9AB0088D5 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.markdown */,
+				890E505E6868A2B595F235492AEDD606 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-acknowledgements.plist */,
+				39C7FF2BAF7742C4909D405E788C0217 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-dummy.m */,
+				C91CC9713A828BBBA1CB8DBD7F2825FB /* Pods-EHHorizontalFlexibleWidthItemsView_Example-frameworks.sh */,
+				9336178ED07D6B3621BB84BFE108E3E9 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-resources.sh */,
+				B178F1EA3ED59305A50F383322608A69 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-umbrella.h */,
+				E2C723E6D686E4A7574C762169B643B0 /* Pods-EHHorizontalFlexibleWidthItemsView_Example.debug.xcconfig */,
+				A458FD9447D93A78EFA5608FAF304859 /* Pods-EHHorizontalFlexibleWidthItemsView_Example.release.xcconfig */,
+			);
+			name = "Pods-EHHorizontalFlexibleWidthItemsView_Example";
+			path = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example";
+			sourceTree = "<group>";
+		};
+		B4808E90C34AA60F7981706995EA2E83 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1EFF2055D43AC81F781DE4487C070E4E /* EHHorizontalFlexibleWidthItemsView.modulemap */,
+				98A13115E042CD308A1E22E3837CEAB7 /* EHHorizontalFlexibleWidthItemsView.xcconfig */,
+				48A3B97244E25DB10D19DBC4A8126124 /* EHHorizontalFlexibleWidthItemsView-dummy.m */,
+				F4F82F9FC801A12735AD017B2A95C40D /* EHHorizontalFlexibleWidthItemsView-prefix.pch */,
+				0517906542E2B87280C2F8FB45E5E89E /* EHHorizontalFlexibleWidthItemsView-umbrella.h */,
+				B28FE751A140BAC10714011B84843024 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/EHHorizontalFlexibleWidthItemsView";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E5059EA43F9FCA4B141FC22FF8A5DA6E /* EHHorizontalFlexibleWidthItemsView */ = {
+			isa = PBXGroup;
+			children = (
+				63E31AF9C13A181C19D7B44926CFD5E0 /* Classes */,
+			);
+			path = EHHorizontalFlexibleWidthItemsView;
+			sourceTree = "<group>";
+		};
+		ECEF7CE7D964EA68E1ADF6606EC21E10 /* EHHorizontalFlexibleWidthItemsView */ = {
+			isa = PBXGroup;
+			children = (
+				E5059EA43F9FCA4B141FC22FF8A5DA6E /* EHHorizontalFlexibleWidthItemsView */,
+				B4808E90C34AA60F7981706995EA2E83 /* Support Files */,
+			);
+			name = EHHorizontalFlexibleWidthItemsView;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		F5883650BC7DAF2F5EC31E903BDC64AB /* Pods-EHHorizontalFlexibleWidthItemsView_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				EA5BC36BB0C7809461C395810D6310D5 /* Info.plist */,
+				C08083AC51CD6FCF92CD164DD6F8FA34 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap */,
+				5382A66C48A4601CD70C65145D5180B2 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.markdown */,
+				D9377328A882E94908315BED24D02D45 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-acknowledgements.plist */,
+				A7622C7BBFF820922FF80B1DE9A25D09 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-dummy.m */,
+				563CB7037F3D47B1D5E05840E85BCA07 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-frameworks.sh */,
+				96F2A29ABFA05F0092877FFDE404C36D /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-resources.sh */,
+				4325CB06314E7C9A62DB0E2F435DF1F0 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h */,
+				B8F75F43BCA63318F8B828EAAF98B91E /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.debug.xcconfig */,
+				2ADC3FFE2BCC9B711352F447D345C99D /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.release.xcconfig */,
+			);
+			name = "Pods-EHHorizontalFlexibleWidthItemsView_Tests";
+			path = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests";
+			sourceTree = "<group>";
+		};
+		FFA814375E1C7BC3FEA100E9816AFED0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BD91F6E3EF16D8CA722D56895B2B9A16 /* EHHorizontalFlexibleWidthItemsView.framework */,
+				695C52AAF69E3DA07DCA6A5D6B6B3D99 /* Pods_EHHorizontalFlexibleWidthItemsView_Example.framework */,
+				4E02197B4DFCA327D76F8700319050BC /* Pods_EHHorizontalFlexibleWidthItemsView_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		1BCD0198F4944EEDCDDA6EBF94C7C209 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DEE904DDF2AE785C8ABE631666CDA804 /* Pods-EHHorizontalFlexibleWidthItemsView_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F7A60D5C38C4B82C55D9DA02BCE2CC5A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1E977F24EAEC7766BCF34D43B5734D7F /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FFE0C81DED7BF4FA6249928738C51821 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07F1613E1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.h in Headers */,
+				07F161441E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.h in Headers */,
+				07F161461E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.h in Headers */,
+				AB854416DA9498284D33914BC843CB37 /* EHHorizontalFlexibleWidthItemsView-umbrella.h in Headers */,
+				07F161421E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.h in Headers */,
+				07F1614A1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.h in Headers */,
+				07F161481E24A426007906FF /* EHHorizontalFlexibleWidthLayout.h in Headers */,
+				07F1613C1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.h in Headers */,
+				07F161401E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		33092D25645795FCD72D3A8C66366DD8 /* Pods-EHHorizontalFlexibleWidthItemsView_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 478AC9AEA98290F111D53A8FADE24ED7 /* Build configuration list for PBXNativeTarget "Pods-EHHorizontalFlexibleWidthItemsView_Example" */;
+			buildPhases = (
+				F9108E111E2D15717E91A08929A6B7FB /* Sources */,
+				9AB6BAFE88E4CF11BFCAF5891160B39C /* Frameworks */,
+				1BCD0198F4944EEDCDDA6EBF94C7C209 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F68CDBB07B22792C1769C35163994DAE /* PBXTargetDependency */,
+			);
+			name = "Pods-EHHorizontalFlexibleWidthItemsView_Example";
+			productName = "Pods-EHHorizontalFlexibleWidthItemsView_Example";
+			productReference = 695C52AAF69E3DA07DCA6A5D6B6B3D99 /* Pods_EHHorizontalFlexibleWidthItemsView_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		47187AA98F6E4C8CA0F01A847AE04583 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4098245AE9C36684C5DBBFE88C509CF /* Build configuration list for PBXNativeTarget "Pods-EHHorizontalFlexibleWidthItemsView_Tests" */;
+			buildPhases = (
+				47D716711F6691C31B82CCE30DA76278 /* Sources */,
+				64584A2C776E664542BF7E74B96DEF5D /* Frameworks */,
+				F7A60D5C38C4B82C55D9DA02BCE2CC5A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-EHHorizontalFlexibleWidthItemsView_Tests";
+			productName = "Pods-EHHorizontalFlexibleWidthItemsView_Tests";
+			productReference = 4E02197B4DFCA327D76F8700319050BC /* Pods_EHHorizontalFlexibleWidthItemsView_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		8F2CCEC22AB7C254AC76A90C81C0EF7E /* EHHorizontalFlexibleWidthItemsView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5020BB3943B952B26E212B9669CC036C /* Build configuration list for PBXNativeTarget "EHHorizontalFlexibleWidthItemsView" */;
+			buildPhases = (
+				3FD9F965E52187B934296CE755A1A8BA /* Sources */,
+				FBEE6074DCE57A6BAEBECF933085A7F4 /* Frameworks */,
+				FFE0C81DED7BF4FA6249928738C51821 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EHHorizontalFlexibleWidthItemsView;
+			productName = EHHorizontalFlexibleWidthItemsView;
+			productReference = BD91F6E3EF16D8CA722D56895B2B9A16 /* EHHorizontalFlexibleWidthItemsView.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = FFA814375E1C7BC3FEA100E9816AFED0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8F2CCEC22AB7C254AC76A90C81C0EF7E /* EHHorizontalFlexibleWidthItemsView */,
+				33092D25645795FCD72D3A8C66366DD8 /* Pods-EHHorizontalFlexibleWidthItemsView_Example */,
+				47187AA98F6E4C8CA0F01A847AE04583 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3FD9F965E52187B934296CE755A1A8BA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07F161411E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionView.m in Sources */,
+				07F1613D1E24A426007906FF /* EHFlexibleWidthItemsSequentialSelectionView.m in Sources */,
+				07F1614B1E24A426007906FF /* EHHorizontalFlexibleWidthLayout+SeparatorPosition.m in Sources */,
+				07F161431E24A426007906FF /* EHHorizontalFlexibleWidthItemsSelectionView.m in Sources */,
+				07F161471E24A426007906FF /* EHHorizontalFlexibleWidthItemsView.m in Sources */,
+				07F161491E24A426007906FF /* EHHorizontalFlexibleWidthLayout.m in Sources */,
+				07F1613F1E24A426007906FF /* EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView.m in Sources */,
+				07F161451E24A426007906FF /* EHHorizontalFlexibleWidthItemsSeparatorView.m in Sources */,
+				6CCE78DE16987F89E056F68D23071D61 /* EHHorizontalFlexibleWidthItemsView-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47D716711F6691C31B82CCE30DA76278 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6CB4153EA98481BF1CE6FD1CAC426F34 /* Pods-EHHorizontalFlexibleWidthItemsView_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9108E111E2D15717E91A08929A6B7FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAB8309CF5FBDD26293A47A995DFA6DA /* Pods-EHHorizontalFlexibleWidthItemsView_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F68CDBB07B22792C1769C35163994DAE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = EHHorizontalFlexibleWidthItemsView;
+			target = 8F2CCEC22AB7C254AC76A90C81C0EF7E /* EHHorizontalFlexibleWidthItemsView */;
+			targetProxy = 7E1C09CCEAA201B5149B83654A9D1CAA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0ACDCBCB0B6796575F46FFA2F5410C6B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6437B226C623065E8D4DD5010D977A7C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B8F75F43BCA63318F8B828EAAF98B91E /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EHHorizontalFlexibleWidthItemsView_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		7493F94B323A53DC116097488352BB59 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A458FD9447D93A78EFA5608FAF304859 /* Pods-EHHorizontalFlexibleWidthItemsView_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EHHorizontalFlexibleWidthItemsView_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		97E3F129E2094DF9B8897B42597B23A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 98A13115E042CD308A1E22E3837CEAB7 /* EHHorizontalFlexibleWidthItemsView.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/EHHorizontalFlexibleWidthItemsView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = EHHorizontalFlexibleWidthItemsView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		A472D013E48668F57B5F527AFD233564 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 98A13115E042CD308A1E22E3837CEAB7 /* EHHorizontalFlexibleWidthItemsView.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/EHHorizontalFlexibleWidthItemsView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/EHHorizontalFlexibleWidthItemsView/EHHorizontalFlexibleWidthItemsView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = EHHorizontalFlexibleWidthItemsView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D09970317D9F8946A0DC0D731FABB97A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2ADC3FFE2BCC9B711352F447D345C99D /* Pods-EHHorizontalFlexibleWidthItemsView_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Tests/Pods-EHHorizontalFlexibleWidthItemsView_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EHHorizontalFlexibleWidthItemsView_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D3E3D092A3FF7311A98E44BBA36FFD12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		FB7DF3B81A6EBF0C4B8EEEE19CE8B402 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E2C723E6D686E4A7574C762169B643B0 /* Pods-EHHorizontalFlexibleWidthItemsView_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EHHorizontalFlexibleWidthItemsView_Example/Pods-EHHorizontalFlexibleWidthItemsView_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EHHorizontalFlexibleWidthItemsView_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D3E3D092A3FF7311A98E44BBA36FFD12 /* Debug */,
+				0ACDCBCB0B6796575F46FFA2F5410C6B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		478AC9AEA98290F111D53A8FADE24ED7 /* Build configuration list for PBXNativeTarget "Pods-EHHorizontalFlexibleWidthItemsView_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB7DF3B81A6EBF0C4B8EEEE19CE8B402 /* Debug */,
+				7493F94B323A53DC116097488352BB59 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5020BB3943B952B26E212B9669CC036C /* Build configuration list for PBXNativeTarget "EHHorizontalFlexibleWidthItemsView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97E3F129E2094DF9B8897B42597B23A1 /* Debug */,
+				A472D013E48668F57B5F527AFD233564 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4098245AE9C36684C5DBBFE88C509CF /* Build configuration list for PBXNativeTarget "Pods-EHHorizontalFlexibleWidthItemsView_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6437B226C623065E8D4DD5010D977A7C /* Debug */,
+				D09970317D9F8946A0DC0D731FABB97A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
