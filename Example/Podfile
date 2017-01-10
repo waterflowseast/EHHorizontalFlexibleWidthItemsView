@@ -2,6 +2,8 @@ use_frameworks!
 
 target 'EHHorizontalFlexibleWidthItemsView_Example' do
   pod 'EHHorizontalFlexibleWidthItemsView', :path => '../'
+  pod 'Masonry', '~> 0.6.4'
+  pod 'YYCategories', '~> 1.0.1'
 
   target 'EHHorizontalFlexibleWidthItemsView_Tests' do
     inherit! :search_paths
