@@ -5,6 +5,7 @@
 #import "EHFlexibleWidthItemsSingleAnimatedSelectionView.h"
 #import "EHHorizontalFlexibleWidthItemsSelectionView.h"
 #import "EHHorizontalFlexibleWidthItemsSeparatorView.h"
+#import "EHHorizontalFlexibleWidthItemsTrackView.h"
 #import "EHHorizontalFlexibleWidthItemsView.h"
 #import "EHHorizontalFlexibleWidthLayout+SeparatorPosition.h"
 #import "EHHorizontalFlexibleWidthLayout.h"
