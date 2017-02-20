@@ -19,6 +19,8 @@ EHFlexibleWidthItemsSingleAnimatedSelectionView: a view which arranges different
 
 EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView: EHFlexibleWidthItemsSingleAnimatedSelectionView + separator lines.
 
+EHHorizontalFlexibleWidthItemsTrackView: a view which arranges different-width item views one by one horizontally and has a track on the bottom. when you select one item, the track will slide to the selected one with animation.
+
 ## Screenshots
 
 EHHorizontalFlexibleWidthItemsView & EHHorizontalFlexibleWidthItemsSeparatorView
@@ -36,6 +38,10 @@ EHFlexibleWidthItemsSequentialSelectionView
 EHFlexibleWidthItemsSingleAnimatedSelectionView & EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView
 
 ![](https://github.com/waterflowseast/EHHorizontalFlexibleWidthItemsView/raw/master/screenshots/4.png)
+
+EHHorizontalFlexibleWidthItemsTrackView
+
+![](https://github.com/waterflowseast/EHHorizontalFlexibleWidthItemsView/raw/master/screenshots/5.png)
 
 ## Example
 
