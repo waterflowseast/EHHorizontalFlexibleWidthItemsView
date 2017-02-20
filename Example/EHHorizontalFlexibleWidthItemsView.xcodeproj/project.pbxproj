@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07CEFC481E5A7D3C00D90AD6 /* EHDemo5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07CEFC471E5A7D3C00D90AD6 /* EHDemo5ViewController.m */; };
+		07CEFC4B1E5A7D8600D90AD6 /* WFEPercentageLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 07CEFC4A1E5A7D8600D90AD6 /* WFEPercentageLabel.m */; };
 		07F161551E24BBA3007906FF /* EHCenteredButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F1614E1E24BBA3007906FF /* EHCenteredButton.m */; };
 		07F161561E24BBA3007906FF /* WFEAnimatedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F161501E24BBA3007906FF /* WFEAnimatedLabel.m */; };
 		07F161571E24BBA3007906FF /* WFEButtonTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F161521E24BBA3007906FF /* WFEButtonTitleView.m */; };
@@ -44,6 +46,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		07CEFC461E5A7D3C00D90AD6 /* EHDemo5ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHDemo5ViewController.h; sourceTree = "<group>"; };
+		07CEFC471E5A7D3C00D90AD6 /* EHDemo5ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHDemo5ViewController.m; sourceTree = "<group>"; };
+		07CEFC491E5A7D8600D90AD6 /* WFEPercentageLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFEPercentageLabel.h; sourceTree = "<group>"; };
+		07CEFC4A1E5A7D8600D90AD6 /* WFEPercentageLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WFEPercentageLabel.m; sourceTree = "<group>"; };
 		07F1614D1E24BBA3007906FF /* EHCenteredButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHCenteredButton.h; sourceTree = "<group>"; };
 		07F1614E1E24BBA3007906FF /* EHCenteredButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHCenteredButton.m; sourceTree = "<group>"; };
 		07F1614F1E24BBA3007906FF /* WFEAnimatedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WFEAnimatedLabel.h; sourceTree = "<group>"; };
@@ -128,6 +134,8 @@
 				07F161521E24BBA3007906FF /* WFEButtonTitleView.m */,
 				07F161531E24BBA3007906FF /* WFELabel.h */,
 				07F161541E24BBA3007906FF /* WFELabel.m */,
+				07CEFC491E5A7D8600D90AD6 /* WFEPercentageLabel.h */,
+				07CEFC4A1E5A7D8600D90AD6 /* WFEPercentageLabel.m */,
 			);
 			path = CustomViews;
 			sourceTree = "<group>";
@@ -143,6 +151,8 @@
 				07F1615F1E24BBAB007906FF /* EHDemo3ViewController.m */,
 				07F161601E24BBAB007906FF /* EHDemo4ViewController.h */,
 				07F161611E24BBAB007906FF /* EHDemo4ViewController.m */,
+				07CEFC461E5A7D3C00D90AD6 /* EHDemo5ViewController.h */,
+				07CEFC471E5A7D3C00D90AD6 /* EHDemo5ViewController.m */,
 			);
 			path = DemoViewControllers;
 			sourceTree = "<group>";
@@ -451,9 +461,11 @@
 				07F161651E24BBAB007906FF /* EHDemo4ViewController.m in Sources */,
 				07F161631E24BBAB007906FF /* EHDemo2ViewController.m in Sources */,
 				6003F59E195388D20070C39A /* EHAppDelegate.m in Sources */,
+				07CEFC4B1E5A7D8600D90AD6 /* WFEPercentageLabel.m in Sources */,
 				6003F5A7195388D20070C39A /* EHViewController.m in Sources */,
 				07F161621E24BBAB007906FF /* EHDemo1ViewController.m in Sources */,
 				07F161581E24BBA3007906FF /* WFELabel.m in Sources */,
+				07CEFC481E5A7D3C00D90AD6 /* EHDemo5ViewController.m in Sources */,
 				07F161561E24BBA3007906FF /* WFEAnimatedLabel.m in Sources */,
 				07F161641E24BBAB007906FF /* EHDemo3ViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,

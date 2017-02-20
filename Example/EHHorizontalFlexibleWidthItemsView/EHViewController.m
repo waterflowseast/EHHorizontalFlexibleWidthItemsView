@@ -92,6 +92,7 @@ static NSString * const kDefaultCellIdentifier = @"DefaultCell";
                    @{@"title" : @"EHHorizontalFlexibleWidthItemsSelectionView", @"class" : @"EHDemo2ViewController"},
                    @{@"title" : @"EHFlexibleWidthItemsSequentialSelectionView", @"class" : @"EHDemo3ViewController"},
                    @{@"title" : @"EHFlexibleWidthItemsSingleAnimatedSelectionView & EHFlexibleWidthItemsSingleAnimatedSelectionSeparatorView", @"class" : @"EHDemo4ViewController"},
+                   @{@"title" : @"EHHorizontalFlexibleWidthItemsTrackView", @"class" : @"EHDemo5ViewController"},
                    ];
     }
     
